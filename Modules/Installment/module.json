@@ -1,0 +1,13 @@
+{
+    "name": "Installment",
+    "alias": "installment",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Installment\\Providers\\InstallmentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

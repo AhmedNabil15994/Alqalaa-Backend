@@ -1,0 +1,13 @@
+{
+    "name": "Indebtednes",
+    "alias": "indebtednes",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Indebtednes\\Providers\\IndebtednesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

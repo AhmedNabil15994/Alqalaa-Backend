@@ -1,0 +1,13 @@
+{
+    "name": "Casee",
+    "alias": "casee",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Casee\\Providers\\CaseeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

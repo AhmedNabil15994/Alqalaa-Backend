@@ -1,0 +1,19 @@
+{
+    "Core": true,
+    "Apps": true,
+    "Catalog": true,
+    "Authentication": true,
+    "Authorization": true,
+    "DeviceToken": true,
+    "Page": true,
+    "Setting": true,
+    "Transaction": true,
+    "User": true,
+    "Log": true,
+    "Area": true,
+    "Installment": true,
+    "Case": true,
+    "Contract": true,
+    "Indebtednes": true,
+    "Casee": true
+}
